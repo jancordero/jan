@@ -1,0 +1,82 @@
+﻿ids,labels,parents,Value
+Coastal,Coastal,,69
+Social-Coastal,Social,Coastal,8
+Coastal-Eco,Eco,Coastal,22
+Coastal-Tech,Tech,Coastal,8
+Eco Tech-Coastal,Eco Tech,Coastal,10
+Socio Tech-Coastal,Socio Tech,Coastal,21
+Eco-Captura de Agua,Captura de Agua,Coastal-Eco,5
+Eco-Arrecife,Mantenimiento Arrecife,Coastal-Eco,3
+Eco-Manglares,Mantenimiento Manglares,Coastal-Eco,5
+Eco-Marimas,"Mantenimiento y establecimiento de marismas, humedales, ecosistemas intermareales",Coastal-Eco,7
+Eco-Bosques,"Mantenimiento y establecimiento de otra vegetación costera, bosques y ecosistemas naturales (arriba de la zona intermareal)",Coastal-Eco,2
+Eco Tech-Arrecifes Artificiales,Arrecifes Artificiales,Eco Tech-Coastal,7
+Eco Tech-Playas ,Reabastecer (fortalecer) y nutrir las playas y las dunas (mover arena),Eco Tech-Coastal,1
+Eco Tech-Superficies,Remover superficies impermeables,Eco Tech-Coastal,2
+Social-Educacion,Educación Publica,Social-Coastal,6
+Social-Incentivos,Incentivos Economicos ,Social-Coastal,0
+Social-Emergencia,Mejorar la respuesta a situaciones de emergencia,Social-Coastal,2
+Social-Avisos,Sistema de avisos de emergencia,Social-Coastal,0
+Socio Tech-Planificacion,"Planificación, configuración, diseño urbano, etc.",Socio Tech-Coastal,8
+Socio Tech-Asentamientos,Rescate de asentamientos (retirados hacia el interior),Socio Tech-Coastal,1
+Socio Tech-Codigos,Revisión de códigos de construcción,Socio Tech-Coastal,5
+Socio Tech-Zonificacion,Estrategias de Zonificacion,Socio Tech-Coastal,7
+Tech-Ciencia,Desarrollo cientifico y Technologico,Tech,3
+Tech-Diques,Diques o rompeolas,Tech,3
+Tech-Edificio,Elevar Edificios y calles,Tech,2
+cap-gub,Gubernamental,Eco-Captura de Agua,3
+cap-inv,Investigacion,Eco-Captura de Agua,1
+cap-non,No-Gubernamental,Eco-Captura de Agua,1
+aa-gub,Gubernamental,Eco Tech-Arrecifes Artificiales,3
+aa-inv,Investigacion,Eco Tech-Arrecifes Artificiales,2
+aa-non,No-Gubernamental,Eco Tech-Arrecifes Artificiales,2
+ci-gub,Gubernamental,Tech-Ciencia,1
+ci-inv,Investigacion,Tech-Ciencia,0
+ci-non,No-Gubernamental,Tech-Ciencia,2
+di-gub,Gubernamental,Tech-Diques,1
+di-inv,Investigacion,Tech-Diques,2
+di-non,No-Gubernamental,Tech-Diques,0
+ed-gub,Gubernamental,Social-Educacion,4
+ed-inv,Investigacion,Social-Educacion,0
+ed-non,No-Gubernamental,Social-Educacion,2
+edi-gub,Gubernamental,Tech-Edificio,1
+edi-inv,Investigacion,Tech-Edificio,0
+edi-non,No-Gubernamental,Tech-Edificio,1
+zon-gub,Gubernamental,Socio Tech-Zonificacion,4
+zon-inv,Investigacion,Socio Tech-Zonificacion,2
+zon-non,No-Gubernamental,Socio Tech-Zonificacion,1
+inc-gub,Gubernamental,Social-Incentivos,0
+inc-inv,Investigacion,Social-Incentivos,0
+inc-non,No-Gubernamental,Social-Incentivos,0
+man-gub,Gubernamental,Eco-Manglares,1
+man-inv,Investigacion,Eco-Manglares,1
+man-non,No-Gubernamental,Eco-Manglares,3
+arr-gub,Gubernamental,Eco-Arrecife,1
+arr-inv,Investigacion,Eco-Arrecife,0
+arr-non,No-Gubernamental,Eco-Arrecife,2
+mar-gub,Gubernamental,Eco-Marimas,4
+mar-inv,Investigacion,Eco-Marimas,0
+mar-non,No-Gubernamental,Eco-Marimas,3
+bos-gub,Gubernamental,Eco-Bosques,1
+bos-inv,Investigacion,Eco-Bosques,0
+bos-non,No-Gubernamental,Eco-Bosques,1
+em-gub,Gubernamental,Social-Emergencia,2
+em-inv,Investigacion,Social-Emergencia,0
+em-non,No-Gubernamental,Social-Emergencia,0
+pln-gub,Gubernamental,Socio Tech-Planificacion,5
+pln-inv,Investigacion,Socio Tech-Planificacion,1
+pln-non,No-Gubernamental,Socio Tech-Planificacion,2
+ply-gub,Gubernamental,Eco Tech-Playas ,1
+ply-inv,Investigacion,Eco Tech-Playas ,0
+ply-non,No-Gubernamental,Eco Tech-Playas ,0
+sup-inv,Investigacion,Eco Tech-Superficies,0
+sup-non,No-Gubernamental,Eco Tech-Superficies,2
+asen-gub,Gubernamental,Socio Tech-Asentamientos,1
+asen-inv,Investigacion,Socio Tech-Asentamientos,0
+asen-non,No-Gubernamental,Socio Tech-Asentamientos,0
+cod-gub,Gubernamental,Socio Tech-Codigos,2
+cod-inv,Investigacion,Socio Tech-Codigos,1
+cod-non,No-Gubernamental,Socio Tech-Codigos,2
+av-gub,Gubernamental,Social-Avisos,0
+av-inv,Investigacion,Social-Avisos,0
+av-non,No-Gubernamental,Social-Avisos,0
